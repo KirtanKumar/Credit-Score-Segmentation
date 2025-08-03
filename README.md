@@ -36,6 +36,14 @@ This project analyses and segments FICO credit scores from the LendingClub datas
 
 ---
 
+## 🌐 View the Notebook on Kaggle
+
+You can explore the full notebook and code on Kaggle:
+
+🔗 [View on Kaggle](https://www.kaggle.com/code/kirtankumar/credit-score-segmentation)
+
+Feel free to upvote, comment, or suggest improvements!
+
 ## 📌 Output
 
 - Preview of risk-labelled FICO scores
